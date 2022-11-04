@@ -66,7 +66,7 @@ button.start {
     transition: .1s linear;
 }
 
-button.start:hover {
+button.start:hover{
     background-color: #000;
     color: #fff;
 }
